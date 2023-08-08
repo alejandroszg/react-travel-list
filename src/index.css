@@ -70,6 +70,10 @@ input {
   background-color: #76c7ad;
 }
 
+.add-form select {
+  border-right: 12px solid transparent;
+}
+
 .list {
   background-color: #5a3e2b;
   color: #ffebb3;
@@ -89,6 +93,10 @@ input {
   font-size: 1.4rem;
   font-weight: 700;
   margin: 0 0.8rem;
+}
+
+.actions select {
+  border-right: 12px solid transparent;
 }
 
 .list ul {
